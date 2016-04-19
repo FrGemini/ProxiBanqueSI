@@ -15,7 +15,7 @@ import javax.ejb.LocalBean;
 @LocalBean
 public class NewSessionBean {
 
-    private String bloup;
+  
     public void businessMethod() {
         
     }
